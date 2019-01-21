@@ -5,11 +5,11 @@ In deze proefopdracht heb ik aan een VR project gewerkt waar bij je moet schiete
 ## Features
 Wat wil je bereiken met dit project? Formuleer dit kort, krachtig en haalbaar.
 
-- [VR unity](link)
-- [VR shooting](link)
-- [VR enemy movement](link)
-- [VR enemy shooting](link)
-- [Iets unieks waar je trots op bent binnen de project](link)
+- [VR unity]
+- [VR shooting]
+- [VR enemy movement]
+- [VR enemy shooting]
+- [Iets unieks waar je trots op bent binnen de project]
 
 ## Software Anaylse
 
@@ -35,4 +35,3 @@ Welke bronnen heb je gebruikt? Zowel youtube filmpjes als artikelen
 
 - [Unity VR tutorial](https://unity3d.com/learn/tutorials/topics/xr/getting-started-vr-development)
 - [Unity AI movement](https://www.youtube.com/watch?v=188SMf9f6UY)
-- [Flood-Fill Wikipedia](link)
