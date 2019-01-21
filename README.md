@@ -20,7 +20,7 @@ Wat wil je bereiken met dit project? Formuleer dit kort, krachtig en haalbaar.
 - het verbeteren van mijn code en mijn codering style
 - het maken van VR game's
 - het maken van VR enemy's
--het maken van VR shooting
+- het maken van VR shooting
 
 ## Planning
 Wat ik in de afgelopen één en een halfe week heb gedaan.
