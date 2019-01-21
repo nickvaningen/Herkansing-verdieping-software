@@ -3,17 +3,17 @@
 In deze proefopdracht heb ik aan een VR project gewerkt waar bij je moet schieten en moet bewegen om niet gemaakt te worden en om punten te scoren moet je de tegen partij raken op het hoofd 10 punten op het lichaam 5 en op de arme en beenen 2 punten om te winnen moet je een bepaalt aantal punten hebben.
 
 ## Features
-Wat ik wilde berijken met dit project.
+Wat ik wilde bereiken met dit project.
 
-- [VR unity](link)
-- [VR shooting](link)
-- [VR enemy movement](link)
-- [VR enemy shooting](link)
+- [hoe Unity VR in elkaar zit](link)
+- [Hoe je moet schieten in Unity VR](link)
+- [Hoe je de Enemy's laat lopen in Unity VR](link)
+- [Hoe je de Enemy's laat terug schieten in Unity VR](link)
 - [Iets unieks waar je trots op bent binnen de project](link)
 
 ## Software Anaylse
 
-Om deze game te maken moest ik een engine uit kiezen om het in te maken daar voor heb ik voor unity gekozen voor dit project omdat dit een taal is waar ik redelijk goed mee om kan gaan en omdat het één van de enige engine is waar je VR game's kan maken.  Een grote factor dat ik voor deze taal gekozen heb is omdat ik later met unity wil gaan werken, er word tegenwordig veel gebruik gemaakt van unity.
+Om deze game te maken moest ik een engine uit kiezen om het in te maken. je kon uit Unity / Unreal Engine / GameMaker daar voor heb ik voor Unity gekozen voor dit project omdat dit een taal is waar ik redelijk goed mee om kan gaan en omdat het één van de enige engine is waar je VR game's kan maken.  Een grote factor dat ik voor deze taal gekozen heb is omdat ik later met unity wil gaan werken, er word tegenwordig veel gebruik gemaakt van unity.
 
 ## Leerdoelen
 Wat wil je bereiken met dit project? Formuleer dit kort, krachtig en haalbaar.
