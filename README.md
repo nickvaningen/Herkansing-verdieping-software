@@ -5,11 +5,11 @@ In deze proefopdracht heb ik aan een VR project gewerkt waar bij je moet schiete
 ## Features
 Wat wil je bereiken met dit project? Formuleer dit kort, krachtig en haalbaar.
 
-- [VR unity]
-- [VR shooting]
-- [VR enemy movement]
-- [VR enemy shooting]
-- [Iets unieks waar je trots op bent binnen de project]
+- [VR unity](link)
+- [VR shooting](link)
+- [VR enemy movement](link)
+- [VR enemy shooting](link)
+- [Iets unieks waar je trots op bent binnen de project](link)
 
 ## Software Anaylse
 
